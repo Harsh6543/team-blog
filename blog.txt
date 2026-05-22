@@ -1,2 +1,5 @@
 Welcome to our blog project
+feat-blog-template
+blog-template added!
 homepage layout added!
+main
