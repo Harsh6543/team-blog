@@ -1,11 +1,14 @@
 Welcome to our blog project
 comment-section
 comment section added!
+functionality
+added functionality!
 feat-homepage-bug
 homepage layout fixed!
 feat-blog-template
 blog-template added!
 homepage layout added!
+main
 main
 main
 main
