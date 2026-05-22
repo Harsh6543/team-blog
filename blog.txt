@@ -1,2 +1,8 @@
 Welcome to our blog project
+feat-homepage-bug
 homepage layout fixed!
+feat-blog-template
+blog-template added!
+homepage layout added!
+main
+main
